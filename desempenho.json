@@ -1,0 +1,512 @@
+{
+	"cc":{
+		"2018.2":{
+			"pi":{
+				"Matriculados": 52,
+				"Aprovados": 17,
+				"Reprovados": 8,
+				"Trancados": 3,
+				"Cancelados": 1,
+				"MediaGeral": 2.22,
+				"TaxadeAprovacao": 33.33,
+				"TaxadeAprovacaoLiquida": 35.42,
+				"MargemDeAprovacaoLiquida": 2.08
+			},
+			"pf":{
+				"Matriculados": 123,
+				"Aprovados": 44,
+				"Reprovados": 44,
+				"Trancados": 13,
+				"Cancelados": 2,
+				"MediaGeral": 3.23,
+				"TaxadeAprovacao": 36.36,
+				"TaxadeAprovacaoLiquida": 40.74,
+				"MargemDeAprovacaoLiquida": 4.38
+			}
+		},
+		"2019.1":{
+			"pi":{
+				"Matriculados": 9,
+				"Aprovados": 3,
+				"Reprovados": 0,
+				"Trancados": 1,
+				"Cancelados": 1,
+				"MediaGeral": 4.08,
+				"TaxadeAprovacao": 37.5,
+				"TaxadeAprovacaoLiquida": 42.86,
+				"MargemDeAprovacaoLiquida": 5.36
+			},
+			"pf":{
+				"Matriculados": 174,
+				"Aprovados": 62,
+				"Reprovados": 57,
+				"Trancados": 10,
+				"Cancelados": 3,
+				"MediaGeral": 3.51,
+				"TaxadeAprovacao": 36.26,
+				"TaxadeAprovacaoLiquida": 38.51,
+				"MargemDeAprovacaoLiquida": 2.25
+			}
+		},
+		"2019.2":{
+			"pi":{
+				"Matriculados": 89,
+				"Aprovados": 54,
+				"Reprovados": 12,
+				"Trancados": 5,
+				"Cancelados": 0,
+				"MediaGeral": 5.23,
+				"TaxadeAprovacao": 60.67,
+				"TaxadeAprovacaoLiquida": 64.29,
+				"MargemDeAprovacaoLiquida": 3.61
+			},
+			"pf":{
+				"Matriculados": 101,
+				"Aprovados": 30,
+				"Reprovados": 32,
+				"Trancados": 11,
+				"Cancelados": 0,
+				"MediaGeral": 2.66,
+				"TaxadeAprovacao": 29.7,
+				"TaxadeAprovacaoLiquida": 33.33,
+				"MargemDeAprovacaoLiquida": 3.63
+			}
+		},
+		"2020.1":{
+			"pi":{
+				"Matriculados": 20,
+				"Aprovados": 6,
+				"Reprovados": 12,
+				"Trancados": 2,
+				"Cancelados": 0,
+				"MediaGeral": 2.94,
+				"TaxadeAprovacao": 30.0,
+				"TaxadeAprovacaoLiquida": 33.33,
+				"MargemDeAprovacaoLiquida": 3.33
+			},
+			"pf":{
+				"Matriculados": 147,
+				"Aprovados": 70,
+				"Reprovados": 48,
+				"Trancados": 21,
+				"Cancelados": 8,
+				"MediaGeral": 4.95,
+				"TaxadeAprovacao": 50.36,
+				"TaxadeAprovacaoLiquida": 59.32,
+				"MargemDeAprovacaoLiquida": 8.96
+			}
+		},
+		"2020.2":{
+			"pi":{
+				"Matriculados": 78,
+				"Aprovados": 52,
+				"Reprovados": 22,
+				"Trancados": 4,
+				"Cancelados": 0,
+				"MediaGeral": 6.37,
+				"TaxadeAprovacao": 66.67,
+				"TaxadeAprovacaoLiquida": 70.27,
+				"MargemDeAprovacaoLiquida": 3.6
+			},
+			"pf":{
+				"Matriculados": 58,
+				"Aprovados": 19,
+				"Reprovados": 31,
+				"Trancados": 8,
+				"Cancelados": 0,
+				"MediaGeral": 3.04,
+				"TaxadeAprovacao": 32.76,
+				"TaxadeAprovacaoLiquida": 38.0,
+				"MargemDeAprovacaoLiquida": 5.24
+			}
+		},
+		"2021.1":{
+			"pi":{
+				"Matriculados": 14,
+				"Aprovados": 5,
+				"Reprovados": 9,
+				"Trancados": 0,
+				"Cancelados": 0,
+				"MediaGeral": 3.47,
+				"TaxadeAprovacao": 35.71,
+				"TaxadeAprovacaoLiquida": 35.71,
+				"MargemDeAprovacaoLiquida": 0.0
+			},
+			"pf":{
+				"Matriculados": 128,
+				"Aprovados": 17,
+				"Reprovados": 84,
+				"Trancados": 20,
+				"Cancelados": 6,
+				"MediaGeral": 1.97,
+				"TaxadeAprovacao": 13.93,
+				"TaxadeAprovacaoLiquida": 16.67,
+				"MargemDeAprovacaoLiquida": 2.73
+			}
+		},
+		"2021.2":{
+			"pi":{
+				"Matriculados": 91,
+				"Aprovados": 49,
+				"Reprovados": 36,
+				"Trancados": 5,
+				"Cancelados": 1,
+				"MediaGeral": 4.94,
+				"TaxadeAprovacao": 54.44,
+				"TaxadeAprovacaoLiquida": 57.65,
+				"MargemDeAprovacaoLiquida": 3.2
+			},
+			"pf":{
+				"Matriculados": 79,
+				"Aprovados": 33,
+				"Reprovados": 39,
+				"Trancados": 6,
+				"Cancelados": 1,
+				"MediaGeral": 3.93,
+				"TaxadeAprovacao": 42.31,
+				"TaxadeAprovacaoLiquida": 45.83,
+				"MargemDeAprovacaoLiquida": 3.53
+			}
+		}
+	},
+	"ec":{
+		"2018.2":{
+			"pi":{
+				"Matriculados": 19,
+				"Aprovados": 4,
+				"Reprovados": 2,
+				"Trancados": 0,
+				"Cancelados": 0,
+				"MediaGeral": 1.18,
+				"TaxadeAprovacao": 21.05,
+				"TaxadeAprovacaoLiquida": 21.05,
+				"MargemDeAprovacaoLiquida": 0
+			},
+			"pf":{
+				"Matriculados": 51,
+				"Aprovados": 16,
+				"Reprovados": 24,
+				"Trancados": 2,
+				"Cancelados": 0,
+				"MediaGeral": 2.43,
+				"TaxadeAprovacao": 31.37,
+				"TaxadeAprovacaoLiquida": 32.65,
+				"MargemDeAprovacaoLiquida": 1.28
+			}
+		},
+		"2019.1":{
+			"pi":{
+				"Matriculados": 11,
+				"Aprovados": 5,
+				"Reprovados": 0,
+				"Trancados": 0,
+				"Cancelados": 3,
+				"MediaGeral": 5.34,
+				"TaxadeAprovacao": 62.5,
+				"TaxadeAprovacaoLiquida": 62.5,
+				"MargemDeAprovacaoLiquida": 0
+			},
+			"pf":{
+				"Matriculados": 83,
+				"Aprovados": 18,
+				"Reprovados": 34,
+				"Trancados": 9,
+				"Cancelados": 2,
+				"MediaGeral": 2.37,
+				"TaxadeAprovacao": 22.22,
+				"TaxadeAprovacaoLiquida": 25.0,
+				"MargemDeAprovacaoLiquida": 2.78
+			}
+		},
+		"2019.2":{
+			"pi":{
+				"Matriculados": 56,
+				"Aprovados": 37,
+				"Reprovados": 6,
+				"Trancados": 2,
+				"Cancelados": 2,
+				"MediaGeral": 5.48,
+				"TaxadeAprovacao": 68.52,
+				"TaxadeAprovacaoLiquida": 71.15,
+				"MargemDeAprovacaoLiquida": 2.64
+			},
+			"pf":{
+				"Matriculados": 71,
+				"Aprovados": 36,
+				"Reprovados": 20,
+				"Trancados": 4,
+				"Cancelados": 0,
+				"MediaGeral": 3.94,
+				"TaxadeAprovacao": 50.7,
+				"TaxadeAprovacaoLiquida": 53.73,
+				"MargemDeAprovacaoLiquida": 3.03
+			}
+		},
+		"2020.1":{
+			"pi":{
+				"Matriculados": 8,
+				"Aprovados": 3,
+				"Reprovados": 5,
+				"Trancados": 0,
+				"Cancelados": 0,
+				"MediaGeral": 2.88,
+				"TaxadeAprovacao": 37.5,
+				"TaxadeAprovacaoLiquida": 37.5,
+				"MargemDeAprovacaoLiquida": 0
+			},
+			"pf":{
+				"Matriculados": 71,
+				"Aprovados": 39,
+				"Reprovados": 23,
+				"Trancados": 7,
+				"Cancelados": 2,
+				"MediaGeral": 5.04,
+				"TaxadeAprovacao": 56.52,
+				"TaxadeAprovacaoLiquida": 62.9,
+				"MargemDeAprovacaoLiquida": 6.38
+			}
+		},
+		"2020.2":{
+			"pi":{
+				"Matriculados": 49,
+				"Aprovados": 28,
+				"Reprovados": 16,
+				"Trancados": 4,
+				"Cancelados": 1,
+				"MediaGeral": 6.07,
+				"TaxadeAprovacao": 58.33,
+				"TaxadeAprovacaoLiquida": 63.64,
+				"MargemDeAprovacaoLiquida": 5.3
+			},
+			"pf":{
+				"Matriculados": 25,
+				"Aprovados": 13,
+				"Reprovados": 7,
+				"Trancados": 5,
+				"Cancelados": 0,
+				"MediaGeral": 5.2,
+				"TaxadeAprovacao": 55,
+				"TaxadeAprovacaoLiquida": 65,
+				"MargemDeAprovacaoLiquida": 13
+			}
+		},
+		"2021.1":{
+			"pi":{
+				"Matriculados": 7,
+				"Aprovados": 3,
+				"Reprovados": 1,
+				"Trancados": 3,
+				"Cancelados": 0,
+				"MediaGeral": 5.18,
+				"TaxadeAprovacao": 42.86,
+				"TaxadeAprovacaoLiquida": 75,
+				"MargemDeAprovacaoLiquida": 32.14
+			},
+			"pf":{
+				"Matriculados": 69,
+				"Aprovados": 14,
+				"Reprovados": 43,
+				"Trancados": 7,
+				"Cancelados": 5,
+				"MediaGeral": 2.68,
+				"TaxadeAprovacao": 21.88,
+				"TaxadeAprovacaoLiquida": 24.56,
+				"MargemDeAprovacaoLiquida": 2.69
+			}
+		},
+		"2021.2":{
+			"pi":{
+				"Matriculados": 53,
+				"Aprovados": 30,
+				"Reprovados": 13,
+				"Trancados": 9,
+				"Cancelados": 1,
+				"MediaGeral": 5.55,
+				"TaxadeAprovacao": 57.69,
+				"TaxadeAprovacaoLiquida": 69.77,
+				"MargemDeAprovacaoLiquida": 12.08
+			},
+			"pf":{
+				"Matriculados": 54,
+				"Aprovados": 20,
+				"Reprovados": 29,
+				"Trancados": 4,
+				"Cancelados": 1,
+				"MediaGeral": 3.94,
+				"TaxadeAprovacao": 37.74,
+				"TaxadeAprovacaoLiquida": 40.82,
+				"MargemDeAprovacaoLiquida": 3.08
+			}
+		}
+	},
+	"si":{
+		"2018.2":{
+			"pi":{
+				"Matriculados": 35,
+				"Aprovados": 16,
+				"Reprovados": 4,
+				"Trancados": 5,
+				"Cancelados": 0,
+				"MediaGeral": 2.1,
+				"TaxadeAprovacao": 45.71,
+				"TaxadeAprovacaoLiquida": 53.33,
+				"MargemDeAprovacaoLiquida": 7.62
+			},
+			"pf":{
+				"Matriculados": 95,
+				"Aprovados": 48,
+				"Reprovados": 31,
+				"Trancados": 9,
+				"Cancelados": 1,
+				"MediaGeral": 4.48,
+				"TaxadeAprovacao": 51.06,
+				"TaxadeAprovacaoLiquida": 54.47,
+				"MargemDeAprovacaoLiquida": 5.41
+			}
+		},
+		"2019.1":{
+			"pi":{
+				"Matriculados": 11,
+				"Aprovados": 4,
+				"Reprovados": 1,
+				"Trancados": 0,
+				"Cancelados": 1,
+				"MediaGeral": 4.54,
+				"TaxadeAprovacao": 40,
+				"TaxadeAprovacaoLiquida": 40,
+				"MargemDeAprovacaoLiquida": 0
+			},
+			"pf":{
+				"Matriculados": 81,
+				"Aprovados": 12,
+				"Reprovados": 53,
+				"Trancados": 8,
+				"Cancelados": 3,
+				"MediaGeral": 2.04,
+				"TaxadeAprovacao": 15.38,
+				"TaxadeAprovacaoLiquida": 17.14,
+				"MargemDeAprovacaoLiquida": 1.76
+			}
+		},
+		"2019.2":{
+			"pi":{
+				"Matriculados": 37,
+				"Aprovados": 22,
+				"Reprovados": 7,
+				"Trancados": 0,
+				"Cancelados": 0,
+				"MediaGeral": 4.76,
+				"TaxadeAprovacao": 59.46,
+				"TaxadeAprovacaoLiquida": 59.46,
+				"MargemDeAprovacaoLiquida": 0
+			},
+			"pf":{
+				"Matriculados": 58,
+				"Aprovados": 28,
+				"Reprovados": 13,
+				"Trancados": 6,
+				"Cancelados": 0,
+				"MediaGeral": 3.62,
+				"TaxadeAprovacao": 48.28,
+				"TaxadeAprovacaoLiquida": 53.85,
+				"MargemDeAprovacaoLiquida": 5.57
+			}
+		},
+		"2020.1":{
+			"pi":{
+				"Matriculados": 17,
+				"Aprovados": 3,
+				"Reprovados": 12,
+				"Trancados": 2,
+				"Cancelados": 0,
+				"MediaGeral": 2.23,
+				"TaxadeAprovacao": 17.65,
+				"TaxadeAprovacaoLiquida": 20,
+				"MargemDeAprovacaoLiquida": 2.35
+			},
+			"pf":{
+				"Matriculados": 77,
+				"Aprovados": 35,
+				"Reprovados": 36,
+				"Trancados": 6,
+				"Cancelados": 0,
+				"MediaGeral": 4.05,
+				"TaxadeAprovacao": 45.45,
+				"TaxadeAprovacaoLiquida": 49.3,
+				"MargemDeAprovacaoLiquida": 3.84
+			}
+		},
+		"2020.2":{
+			"pi":{
+				"Matriculados": 39,
+				"Aprovados": 22,
+				"Reprovados": 16,
+				"Trancados": 1,
+				"Cancelados": 0,
+				"MediaGeral": 4.88,
+				"TaxadeAprovacao": 56.41,
+				"TaxadeAprovacaoLiquida": 57.89,
+				"MargemDeAprovacaoLiquida": 1.48
+			},
+			"pf":{
+				"Matriculados": 39,
+				"Aprovados": 16,
+				"Reprovados": 19,
+				"Trancados": 3,
+				"Cancelados": 1,
+				"MediaGeral": 3.78,
+				"TaxadeAprovacao": 42.11,
+				"TaxadeAprovacaoLiquida": 45.71,
+				"MargemDeAprovacaoLiquida": 3.61
+			}
+		},
+		"2021.1":{
+			"pi":{
+				"Matriculados": 9,
+				"Aprovados": 5,
+				"Reprovados": 3,
+				"Trancados": 1,
+				"Cancelados": 0,
+				"MediaGeral": 1,
+				"TaxadeAprovacao": 5.38,
+				"TaxadeAprovacaoLiquida": 55.56,
+				"MargemDeAprovacaoLiquida": 62.5
+			},
+			"pf":{
+				"Matriculados": 57,
+				"Aprovados": 34,
+				"Reprovados": 15,
+				"Trancados": 6,
+				"Cancelados": 1,
+				"MediaGeral": 5.15,
+				"TaxadeAprovacao": 60.71,
+				"TaxadeAprovacaoLiquida": 68,
+				"MargemDeAprovacaoLiquida": 7.29
+			}
+		},
+		"2021.2":{
+			"pi":{
+				"Matriculados": 55,
+				"Aprovados": 12,
+				"Reprovados": 34,
+				"Trancados": 7,
+				"Cancelados": 2,
+				"MediaGeral": 2.77,
+				"TaxadeAprovacao": 22.64,
+				"TaxadeAprovacaoLiquida": 26.09,
+				"MargemDeAprovacaoLiquida": 3.45
+			},
+			"pf":{
+				"Matriculados": 27,
+				"Aprovados": 5,
+				"Reprovados": 18,
+				"Trancados": 1,
+				"Cancelados": 3,
+				"MediaGeral": 2.87,
+				"TaxadeAprovacao": 20.83,
+				"TaxadeAprovacaoLiquida": 21.74,
+				"MargemDeAprovacaoLiquida": 0.91
+			}
+		}
+	}
+}
