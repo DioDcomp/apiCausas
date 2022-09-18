@@ -6,12 +6,16 @@ app = Flask(__name__)
 CORS(app, resources=r'/curso/*')
 
 @app.get("/curso/curso")
-def index():
-    return server.response
+def indexDados():
+    return server.responseDados
 
 @app.get("/curso/desempenho")
 def indexDesempenho():
     return server.responseDisciplina
+
+@app.get("/curso/sucesso")
+def indexSucesso():
+    return server.responseSucesso
 
 if __name__ == "__main__":
     app.run()
