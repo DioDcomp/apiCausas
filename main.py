@@ -3,19 +3,31 @@ from flask_cors import CORS
 import server
 
 app = Flask(__name__)
-CORS(app, resources=r'/curso/*')
+CORS(app, resources=r'/*')
 
-@app.get("/curso/curso")
+@app.get("/")
+def index():
+    return "<h1>Not found!</h1>"
+
+@app.get("/curso")
 def indexDados():
     return server.responseDados
 
-@app.get("/curso/desempenho")
-def indexDesempenho():
-    return server.responseDisciplina
-
-@app.get("/curso/sucesso")
+@app.get("/sucesso")
 def indexSucesso():
     return server.responseSucesso
+
+@app.get("/cc")
+def indexCC():
+    return server.responseCC
+
+@app.get("/ec")
+def indexEC():
+    return server.responseEC
+
+@app.get("/si")
+def indexSI():
+    return server.responseSI
 
 if __name__ == "__main__":
     app.run()
