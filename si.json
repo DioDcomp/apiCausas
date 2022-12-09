@@ -1427,15 +1427,15 @@
             },
             "pf":{
                 "nome": "Programacao Funcional",
-                "Matriculados": 58,
-                "Aprovados": 19,
-                "Reprovados": 31,
-                "Trancados": 8,
-                "Cancelados": 0,
-                "MediaGeral": 3.04,
-                "TaxadeAprovacao": 32.76,
-                "TaxadeAprovacaoLiquida": 38.0,
-                "MargemDeAprovacaoLiquida": 5.24
+                "Matriculados": 39,
+                "Aprovados": 16,
+                "Reprovados": 19,
+                "Trancados": 3,
+                "Cancelados": 1,
+                "MediaGeral": 3.78,
+                "TaxadeAprovacao": 42.11,
+                "TaxadeAprovacaoLiquida": 45.71,
+                "MargemDeAprovacaoLiquida": 3.61
             },
             "ies":{
                 "nome": "Informatica, Etica e Sociedade",
@@ -1458,8 +1458,8 @@
                 "Cancelados": 0,
                 "MediaGeral": 6.17,
                 "TaxadeAprovacao": 63.64,
-                "TaxadeAprovacaoLiquida": 58.33,
-                "MargemDeAprovacaoLiquida": 8.33
+                "TaxadeAprovacaoLiquida": 77.78,
+                "MargemDeAprovacaoLiquida": 14.14
             },
             "lc":{
                 "nome": "Logica para Computacao",
@@ -1511,15 +1511,15 @@
             },
             "so":{
                 "nome": "Sistemas Operacionais",
-                "Matriculados": 11,
-                "Aprovados": 9,
-                "Reprovados": 1,
-                "Trancados": 1,
-                "Cancelados": 0,
-                "MediaGeral": 6.06,
-                "TaxadeAprovacao": 81.82,
-                "TaxadeAprovacaoLiquida": 90.00,
-                "MargemDeAprovacaoLiquida": 8.18
+                "Matriculados": 30,
+                "Aprovados": 23,
+                "Reprovados": 4,
+                "Trancados": 2,
+                "Cancelados": 1,
+                "MediaGeral": 6.21,
+                "TaxadeAprovacao": 79.31,
+                "TaxadeAprovacaoLiquida": 85.19,
+                "MargemDeAprovacaoLiquida": 5.87
             },
             "paa":{
                 "nome": "Projeto e Analise de Algoritmos",
@@ -1626,7 +1626,7 @@
                 "Cancelados": 10,
                 "MediaGeral": 5.96,
                 "TaxadeAprovacao": 76.19,
-                "TaxadeAprovacaoLiquida": 82.21,
+                "TaxadeAprovacaoLiquida": 84.21,
                 "MargemDeAprovacaoLiquida": 8.02
             },
             "gsi":{
@@ -1746,22 +1746,22 @@
                 "Cancelados": 0,
                 "MediaGeral": 8.95,
                 "TaxadeAprovacao": 90.91,
-                "TaxadeAprovacaoLiquida": 90.391,
+                "TaxadeAprovacaoLiquida": 90.91,
                 "MargemDeAprovacaoLiquida": 0.00
             }
         },
         "2021.1":{ 
             "sc":{
                 "nome": "Seminarios em Computacao",
-                "Matriculados":57,
-                "Aprovados":48,
-                "Reprovados":6,
-                "Trancados":1,
-                "Cancelados":2,
-                "MediaGeral":8.31,
+                "Matriculados": 57,
+                "Aprovados": 48,
+                "Reprovados": 6,
+                "Trancados": 1,
+                "Cancelados": 2,
+                "MediaGeral": 8.31,
                 "TaxadeAprovacao": 87.27,
-                "TaxadeAprovacaoLiquida":88.89,
-                "MargemDeAprovacaoLiquida":1.62 
+                "TaxadeAprovacaoLiquida": 88.89,
+                "MargemDeAprovacaoLiquida": 1.62 
             },
             "pi":{
                 "nome": "Programacao Imperativa",
@@ -1770,10 +1770,10 @@
                 "Reprovados": 3,
                 "Trancados": 1,
                 "Cancelados": 0,
-                "MediaGeral": 1,
-                "TaxadeAprovacao": 5.38,
-                "TaxadeAprovacaoLiquida": 55.56,
-                "MargemDeAprovacaoLiquida": 62.5
+                "MediaGeral": 5.38,
+                "TaxadeAprovacao": 55.56,
+                "TaxadeAprovacaoLiquida": 62.50,
+                "MargemDeAprovacaoLiquida": 6.94
             },
             "pf":{
                 "nome": "Programacao Funcional",
@@ -1781,11 +1781,11 @@
                 "Aprovados": 34,
                 "Reprovados": 15,
                 "Trancados": 6,
-                "Cancelados": 1,
+                "Cancelados": 2,
                 "MediaGeral": 5.15,
-                "TaxadeAprovacao": 60.71,
-                "TaxadeAprovacaoLiquida": 68,
-                "MargemDeAprovacaoLiquida": 7.29
+                "TaxadeAprovacao": 61.82,
+                "TaxadeAprovacaoLiquida": 69.39,
+                "MargemDeAprovacaoLiquida": 7.57
             },
             "ies":{
                 "nome": "Informatica, Etica e Sociedade",
@@ -1976,20 +1976,20 @@
                 "Cancelados": 1,
                 "MediaGeral": 4.78,
                 "TaxadeAprovacao": 53.57,
-                "TaxadeAprovacaoLiquida": 56.57,
+                "TaxadeAprovacaoLiquida": 55.56,
                 "MargemDeAprovacaoLiquida": 1.98
             },
             "gsi":{
                 "nome": "Gestao de Sistemas de Informacao",
                 "Matriculados": 30,
-                "Aprovados": 25,
-                "Reprovados": 4,
+                "Aprovados": 23,
+                "Reprovados": 6,
                 "Trancados": 1,
                 "Cancelados": 0,
-                "MediaGeral": 7.76,
-                "TaxadeAprovacao": 83.33,
-                "TaxadeAprovacaoLiquida": 86.21,
-                "MargemDeAprovacaoLiquida": 2.87
+                "MediaGeral": 6.50,
+                "TaxadeAprovacao": 76.67,
+                "TaxadeAprovacaoLiquida": 79.31,
+                "MargemDeAprovacaoLiquida": 2.64
             },
             "ts":{
                 "nome": "Teste de Software",
@@ -2005,15 +2005,15 @@
             },
             "gp":{
                 "nome": "Gerencia de Projetos",
-                "Matriculados": 0,
-                "Aprovados": 0,
-                "Reprovados": 0,
-                "Trancados": 0,
+                "Matriculados": 26,
+                "Aprovados": 23,
+                "Reprovados": 2,
+                "Trancados": 1,
                 "Cancelados": 0,
-                "MediaGeral": 0,
-                "TaxadeAprovacao": 0.00,
-                "TaxadeAprovacaoLiquida": 0.00,
-                "MargemDeAprovacaoLiquida": 0.00
+                "MediaGeral": 8.00,
+                "TaxadeAprovacao": 88.46,
+                "TaxadeAprovacaoLiquida": 92.00,
+                "MargemDeAprovacaoLiquida": 3.54
             },
             "qs":{
                 "nome": "Qualidade de Software",
@@ -2048,19 +2048,19 @@
                 "Cancelados": 0,
                 "MediaGeral": 8.11,
                 "TaxadeAprovacao": 83.33,
-                "TaxadeAprovacaoLiquida": 90.01,
+                "TaxadeAprovacaoLiquida": 90.91,
                 "MargemDeAprovacaoLiquida": 7.58
             },
             "tcc1":{
                 "nome": "Trabalho de Conclusao de Curso I",
-                "Matriculados": 27,
+                "Matriculados": 24,
                 "Aprovados": 19,
                 "Reprovados": 5,
                 "Trancados": 0,
                 "Cancelados": 0,
                 "MediaGeral": 7.29,
                 "TaxadeAprovacao": 70.37,
-                "TaxadeAprovacaoLiquida":70.37,
+                "TaxadeAprovacaoLiquida": 70.37,
                 "MargemDeAprovacaoLiquida": 0.00
             },
             "poc2":{
@@ -2077,7 +2077,7 @@
             },
             "tcc2":{
                 "nome": "Trabalho de Conclusao de Curso II",
-                "Matriculados": 16,
+                "Matriculados": 14,
                 "Aprovados": 2,
                 "Reprovados": 11,
                 "Trancados": 1,
@@ -2115,27 +2115,27 @@
             },
             "pi":{
                 "nome": "Programacao Imperativa",
-                "Matriculados": 9,
-                "Aprovados": 5,
-                "Reprovados": 3,
-                "Trancados": 1,
-                "Cancelados": 0,
-                "MediaGeral": 1,
-                "TaxadeAprovacao": 5.38,
-                "TaxadeAprovacaoLiquida": 55.56,
-                "MargemDeAprovacaoLiquida": 62.5
+                "Matriculados": 55,
+                "Aprovados": 12,
+                "Reprovados": 34,
+                "Trancados": 7,
+                "Cancelados": 2,
+                "MediaGeral": 2.77,
+                "TaxadeAprovacao": 22.64,
+                "TaxadeAprovacaoLiquida": 26.09,
+                "MargemDeAprovacaoLiquida": 3.45
             },
             "pf":{
                 "nome": "Programacao Funcional",
-                "Matriculados": 57,
-                "Aprovados": 34,
-                "Reprovados": 15,
-                "Trancados": 6,
-                "Cancelados": 1,
-                "MediaGeral": 5.15,
-                "TaxadeAprovacao": 60.71,
-                "TaxadeAprovacaoLiquida": 68,
-                "MargemDeAprovacaoLiquida": 7.29
+                "Matriculados": 27,
+                "Aprovados": 5,
+                "Reprovados": 18,
+                "Trancados": 1,
+                "Cancelados": 3,
+                "MediaGeral": 2.87,
+                "TaxadeAprovacao": 20.83,
+                "TaxadeAprovacaoLiquida": 21.74,
+                "MargemDeAprovacaoLiquida": 0.91
             },
             "ies":{
                 "nome": "Informatica, Etica e Sociedade",
@@ -2156,7 +2156,7 @@
                 "Reprovados": 7,
                 "Trancados": 4,
                 "Cancelados": 1,
-                "MediaGeral": 4.16,
+                "MediaGeral": 6.16,
                 "TaxadeAprovacao": 67.65,
                 "TaxadeAprovacaoLiquida": 76.67,
                 "MargemDeAprovacaoLiquida": 9.02
@@ -2175,15 +2175,15 @@
             },
             "ed1":{
                 "nome": "Estrutura de Dados",
-                "Matriculados": 40,
-                "Aprovados": 27,
-                "Reprovados": 10,
-                "Trancados": 3,
+                "Matriculados": 30,
+                "Aprovados": 3,
+                "Reprovados": 15,
+                "Trancados": 12,
                 "Cancelados": 0,
-                "MediaGeral": 5.92,
-                "TaxadeAprovacao": 67.50,
-                "TaxadeAprovacaoLiquida": 72.97,
-                "MargemDeAprovacaoLiquida": 5.47
+                "MediaGeral": 1.51,
+                "TaxadeAprovacao": 10.00,
+                "TaxadeAprovacaoLiquida": 16.67,
+                "MargemDeAprovacaoLiquida": 6.67
             },
             "poo":{
                 "nome": "Programacao Orientada a Objetos",
@@ -2288,7 +2288,7 @@
                 "Reprovados": 13,
                 "Trancados": 4,
                 "Cancelados": 0,
-                "MediaGeral": 4.48,
+                "MediaGeral": 4.68,
                 "TaxadeAprovacao": 54.05,
                 "TaxadeAprovacaoLiquida": 60.61,
                 "MargemDeAprovacaoLiquida": 6.55
@@ -2309,8 +2309,8 @@
                 "nome": "Teoria Geral de Sistemas",
                 "Matriculados": 25,
                 "Aprovados": 21,
-                "Reprovados": 4,
-                "Trancados": 0,
+                "Reprovados": 1,
+                "Trancados": 3,
                 "Cancelados": 0,
                 "MediaGeral": 5.99,
                 "TaxadeAprovacao": 84.00,
@@ -2427,7 +2427,7 @@
             },
             "tcc2":{
                 "nome": "Trabalho de Conclusao de Curso II",
-                "Matriculados": 26,
+                "Matriculados": 21,
                 "Aprovados": 13,
                 "Reprovados": 6,
                 "Trancados": 1,
